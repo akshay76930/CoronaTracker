@@ -1,0 +1,42 @@
+.sticky-top{
+    background-color: #f7f7f7;
+    position: 0;
+    font-size: 12px;
+    box-shadow: 5px 10px 30px rgba(0,0,0,0.2);
+}
+.nav-link{
+    font-family: Amaranth;
+    color: #dc2020;	
+    font-size: 16px;
+    display: flex;
+    font-size: 0.9em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 600;
+    color: grey;       
+}
+.prf{
+  color: grey;
+  font-family: Aladin;
+  font-size:20px; 
+}
+.prf1{
+    color: grey;  
+    font-family: poppins;
+    font-size:14px;
+}
+.fa-facebook,.fa-github,.fa-linkedin,.fa-search{
+ font-size: 16px;
+}
+.fa-facebook:hover{
+    color: lightblue;
+}
+.fa-github:hover{
+    color: black;
+}
+.fa-linkedin:hover{
+    color: blue;
+}
+.fa-search:hover{
+    color: black;
+}

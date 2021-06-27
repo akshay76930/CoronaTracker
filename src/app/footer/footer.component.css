@@ -1,0 +1,37 @@
+.footer{
+    font-family: poppins;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;      
+    text-decoration: none;
+  }
+.fa-facebook,.fa-github,.fa-linkedin{
+    font-size: 20px;
+}
+.prf{
+    color: black;
+    font-family: poppins;
+    font-size: 18px;
+}
+footer a {
+    font-size: 16px;
+    text-decoration: none;
+    color:white;
+}
+.container-fluid{
+    background-color: black;
+}
+hr {
+    background-color: grey;
+}
+.fa-facebook:hover{
+    color: lightblue;
+}
+.fa-github:hover{
+    color: lightblue;
+}
+.fa-linkedin:hover{
+    color: lightblue;
+}
+
+  
